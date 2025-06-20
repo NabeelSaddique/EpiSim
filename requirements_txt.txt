@@ -1,0 +1,38 @@
+# EpiSim - Epidemiological Questionnaire Pilot Simulator
+# Requirements file for Python dependencies
+
+# Core web framework
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Statistical computing
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Data visualization
+plotly>=5.15.0
+
+# Additional utilities for data handling
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# JSON handling (included in Python standard library, but explicit for clarity)
+# json - Built-in Python module
+
+# Date and time handling (built-in, but listed for completeness)
+# datetime - Built-in Python module
+
+# Random number generation (built-in)
+# random - Built-in Python module
+
+# Input/output operations
+# io - Built-in Python module
+
+# Mathematical operations
+# math - Built-in Python module
+
+# Warning handling
+# warnings - Built-in Python module
